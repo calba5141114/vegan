@@ -1,0 +1,11 @@
+{
+  "name": "VeganApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/calba5141114/vegan.git",
+  "author": "Haley Levesque <CARLOSalba989@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
